@@ -1,0 +1,56 @@
+
+body{
+  background-color: #f0f3f5;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+hr{
+    background-color:#f0f3f5;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%
+  }
+}
+#header{
+  text-align: center;
+}
+.blog{
+  padding: 2%;
+  font-weight: 700;
+  font-size: 20px;
+}
+img{
+  width: 800px;
+  height: 500px;
+}
+#pubgpage{
+  font-family: 'Montserrat', sans-serif;
+}
+.footer{
+  background-color: black;
+  hieght
+}
+#homepage{
+  width: 200px;
+  height: 112.5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.homepagediv{
+  background-color: #f0f3f5;
+  border-color: black;
+}
+.homepage-body{
+  background-color: #b2ebf2;
+  font-family: 'Montserrat', sans-serif;
+}
+.pubgfirstdiv{
+  text-align: center;
+  display: inline-block;
+}
